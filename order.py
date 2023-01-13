@@ -1,10 +1,3 @@
-'''
-Lecture: COMPSCI 1026A 002
-Name: Jocelyn Chang
-
-This code takes the user's input and generates their pizza order into a receipt.
-'''
-
 from pizzaReceipt import generateReceipt
 TOPPING = ("ONION", "TOMATO", "GREEN PEPPER", "MUSHROOM", "OLIVE", "SPINACH", "BROCCOLI", "PINEAPPLE",
            "HOT PEPPER", "PEPPERONI", "HAM", "BACON", "GROUND BEEF", "CHICKEN", "SAUSAGE")
